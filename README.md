@@ -1,22 +1,14 @@
-### Hi there 👋
+### Hi there everyone 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mallik18&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+This is the place where I explore and do some interesting stuff.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mallik18&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭  &nbsp;I’m a Python Developer
+- 🌱  &nbsp;I’m currently learning FastAPI and ML.
+- 💬  &nbsp;Ask me questions so I can learn from them
+- 📫  &nbsp;How to reach me: [@mallikarjunkolar](https://www.linkedin.com/in/mallikarjun-kolar-39122914b/) or [@kolarmallik](https://twitter.com/kolarmallik)
 
-<!--
-**mallik18/mallik18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+<!-- Github stats -->
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=mallik18&theme=algolia&show_icons=true" />
+<!-- Languages used -->
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mallik18&layout=compact"/>
 
